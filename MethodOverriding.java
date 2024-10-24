@@ -1,5 +1,6 @@
 class Vehicle{  
-  void run(){System.out.println("Vehicle is running");}  
+  void run(){
+System.out.println("Vehicle is running");}  
 }  
 //Creating a child class  
 class Bike extends Vehicle{  
